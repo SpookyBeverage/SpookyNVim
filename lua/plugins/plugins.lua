@@ -41,7 +41,21 @@ return{
             "vim",
             "vimdoc",
             "yaml",
+            "hcl",
+            "terraform"
           },
+        },
+      },
+      {
+        {
+            "folke/flash.nvim",
+            opts = {
+              modes = {
+                  search = {
+                    enabled = false,
+                  },
+              },
+            },
         },
       }
 }

@@ -2,12 +2,13 @@
   "extras": [
     "lazyvim.plugins.extras.lang.java",
     "lazyvim.plugins.extras.lang.python",
+    "lazyvim.plugins.extras.lang.terraform",
     "lazyvim.plugins.extras.lang.typescript",
     "lazyvim.plugins.extras.lang.yaml",
     "lazyvim.plugins.extras.ui.mini-animate"
   ],
   "news": {
-    "NEWS.md": "2191"
+    "NEWS.md": "3415"
   },
-  "version": 2
+  "version": 3
 }
